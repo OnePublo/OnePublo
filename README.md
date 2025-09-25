@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OnePublo
-- 👀 I’m interested in becoming a... Front-end web developer.  Hopefully, one day I will be able to work with Web 3.0 and become a proficient full-stack developer. 
-- 🌱 I’m currently learning ... HTML, CSS, and JavaScript. As well as a small amount of C# and Python. 
-- 💞️ I’m looking to collaborate on start-ups 
+- 👋 Hi, I’m Sammy B 
+- 👀 I’m interested in building a Webflow and marketing micro agency. One day, I hope to be able to work with Web 3.0 and become a proficient full-stack developer. 
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, Webflow, Figma, SEO, and N8N. 
+- 💞️ I’m looking to collaborate on start-ups, vibe projects, and marketing. 
 
 
 <!---
